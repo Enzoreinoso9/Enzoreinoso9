@@ -3,6 +3,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
+## About me
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  My Skills
 
 ### 👉 Programming languages
@@ -72,3 +74,5 @@
   <br/>
 
 </details>
+
+## Connect whit me
