@@ -86,3 +86,10 @@
 </details>
 
 ## Connect whit me
+
+ <a href="https://www.linkedin.com/in/enzo-reinoso-aa267a275/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://www.instagram.com/enzoreinoso9/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+     <a href="https://x.com/EnzoReinoso9" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
